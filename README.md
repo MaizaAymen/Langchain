@@ -17,4 +17,6 @@ This is a simple command-line tool that uses **LangChain** and **Groq's LLM (LLa
 
 ```bash
 git clone [https://github.com/your-username/meal-generator-ai.git](https://github.com/MaizaAymen/Langchain.git)
-cd meal-generator-ai
+cd Langchain
+
+
